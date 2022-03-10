@@ -1,0 +1,1 @@
+Author of Dynamical State Cell Signaling Simulator (DiSCuSS): Jay Coggan, Molecular Systems, Blue Brain Project / EPFL (only author as of March, 2021)  
